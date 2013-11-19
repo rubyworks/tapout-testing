@@ -18,7 +18,7 @@ Case 3(fail):
 spring rake test
 ```
 
-Case 4(success):
+Case 4(fail)
 
 ```ruby
 spring rake test | tapout
